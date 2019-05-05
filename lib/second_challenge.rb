@@ -8,9 +8,7 @@ def second_challenge
 
   #code your solution here!
 
-  code.each do |group| 
-    dairy.values
-    
+  groceries.flatten.values
     
 
 end
